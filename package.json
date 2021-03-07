@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Koenkk/zigbee2mqtt.git"
+    "url": "git+https://github.com/zesani/zigbee2mqtt.git"
   },
   "engines": {
     "node": "^10 || ^12 || ^14 || ^15"
